@@ -1,0 +1,6 @@
+customer_id,age,tenure_months,total_purchases,churn
+C001,28,14,45,0
+C002,35,26,120,0
+C003,42,8,12,1
+C004,31,19,67,0
+C005,24,3,5,1
